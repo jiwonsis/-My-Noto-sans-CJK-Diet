@@ -1,0 +1,23 @@
+{
+  "name": "noto-sans-scott",
+  "version": "1.0.0",
+  "authors": [
+    "ScottMoon <jiwonsis@naver.com>"
+  ],
+  "description": "NotoSans Google Free font CJKkr font files. Diet No 'Hanja', No'chinese word'",
+  "moduleType": [
+    "node"
+  ],
+  "keywords": [
+    "notosans"
+  ],
+  "license": "MIT",
+  "homepage": "http://goo.gl/sFQoLF",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

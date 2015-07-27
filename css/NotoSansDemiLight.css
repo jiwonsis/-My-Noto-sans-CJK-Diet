@@ -1,0 +1,8 @@
+@font-face {
+ font-family: 'NotoSansDemiLight';
+ font-style: normal;
+ src: url('../fonts/NotoSansCJKkr-DemiLight.eot');
+ src: url('../fonts/NotoSansCJKkr-DemiLight.eot') format('embedded-opentype'),
+ url('../fonts/NotoSansCJKkr-DemiLight.woff') format('woff'),
+ url('../fonts/NotoSansCJKkr-DemiLight.otf') format('truetype');
+}
