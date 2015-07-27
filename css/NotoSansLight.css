@@ -1,8 +1,0 @@
-@font-face {
- font-family: 'NotoSansLight';
- font-style: normal;
- src: url('../fonts/NotoSansCJKkr-Light.eot');
- src: url('../fonts/NotoSansCJKkr-Light.eot') format('embedded-opentype'),
- url('../fonts/NotoSansCJKkr-Light.woff') format('woff'),
- url('../fonts/NotoSansCJKkr-Light.otf') format('truetype');
-}

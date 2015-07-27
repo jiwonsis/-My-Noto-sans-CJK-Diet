@@ -1,0 +1,62 @@
+@font-face {
+ font-family: 'noto-sans-scott';
+ font-style: 100;
+ src: url('../fonts/NotoSansCJKkr-Thin.eot');
+ src: url('../fonts/NotoSansCJKkr-Thin.eot') format('embedded-opentype'),
+ url('../fonts/NotoSansCJKkr-Thin.woff') format('woff'),
+ url('../fonts/NotoSansCJKkr-Thin.otf') format('truetype');
+}
+
+@font-face {
+ font-family: 'noto-sans-scott';
+ font-style: 200;
+ src: url('../fonts/NotoSansCJKkr-Light.eot');
+ src: url('../fonts/NotoSansCJKkr-Light.eot') format('embedded-opentype'),
+ url('../fonts/NotoSansCJKkr-Light.woff') format('woff'),
+ url('../fonts/NotoSansCJKkr-Light.otf') format('truetype');
+}
+
+@font-face {
+ font-family: 'noto-sans-scott';
+ font-style: 300;
+ src: url('../fonts/NotoSansCJKkr-DemiLight.eot');
+ src: url('../fonts/NotoSansCJKkr-DemiLight.eot') format('embedded-opentype'),
+ url('../fonts/NotoSansCJKkr-DemiLight.woff') format('woff'),
+ url('../fonts/NotoSansCJKkr-DemiLight.otf') format('truetype');
+}
+
+@font-face {
+ font-family: 'noto-sans-scott';
+ font-style: 400;
+ src: url('../fonts/NotoSansCJKkr-Regular.eot');
+ src: url('../fonts/NotoSansCJKkr-Regular.eot') format('embedded-opentype'),
+ url('../fonts/NotoSansCJKkr-Regular.woff') format('woff'),
+ url('../fonts/NotoSansCJKkr-Regular.otf') format('truetype');
+}
+
+@font-face {
+ font-family: 'noto-sans-scott';
+ font-style: 500;
+ src: url('../fonts/NotoSansCJKkr-Medium.eot');
+ src: url('../fonts/NotoSansCJKkr-Medium.eot') format('embedded-opentype'),
+ url('../fonts/NotoSansCJKkr-Medium.woff') format('woff'),
+ url('../fonts/NotoSansCJKkr-Medium.otf') format('truetype');
+}
+
+@font-face {
+ font-family: 'noto-sans-scott';
+ font-style: 700;
+ src: url('/fonts/NotoSansCJKkr-Black.eot');
+ src: url('/fonts/NotoSansCJKkr-Black.eot') format('embedded-opentype'),
+ url('/fonts/NotoSansCJKkr-Black.woff') format('woff'),
+ url('/fonts/NotoSansCJKkr-Black.otf') format('truetype');
+}
+
+@font-face {
+ font-family: 'noto-sans-scott';
+ font-style: 900;
+ src: url('../fonts/NotoSansCJKkr-Bold.eot');
+ src: url('../fonts/NotoSansCJKkr-Bold.eot') format('embedded-opentype'),
+ url('../fonts/NotoSansCJKkr-Bold.woff') format('woff'),
+ url('../fonts/NotoSansCJKkr-Bold.otf') format('truetype');
+}
